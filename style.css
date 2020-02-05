@@ -3,7 +3,7 @@
 body {
   font-family: 'Muli', sans-serif;
   font-weight: 400;
-  background-color: rgb(245, 245, 245);
+  background-color: rgba(178, 62, 89, 0.15);
 }
 
 h1, h2 {
@@ -36,7 +36,7 @@ a {
 
 #profile-picture {
   border-radius: 50%;
-  width: 160px;
+  width: 220px;
 }
 
 .card-picture {
